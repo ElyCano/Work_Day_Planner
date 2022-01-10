@@ -17,3 +17,9 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+//**Mock-Up**//
+![](https://github.com/ElyCano/Work_Day_Planner/blob/fc11fe8be6fb8e77ef7959174b50ddc768e4f355/05-third-party-apis-homework-demo.gif?raw=true)
+
+//**Screenshoot**//
+![](https://raw.githubusercontent.com/ElyCano/Work_Day_Planner/fc11fe8be6fb8e77ef7959174b50ddc768e4f355/images/Workday-scheduler.png)
